@@ -1,0 +1,136 @@
+Disk /dev/sda: 146.2 GB, 146163105792 bytes
+255 heads, 63 sectors/track, 17769 cylinders
+Units = cylinders of 16065 * 512 = 8225280 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk identifier: 0x0001fd25
+
+   Device Boot      Start         End      Blocks   Id  System
+/dev/sda1   *           1          33      265041   83  Linux
+/dev/sda2              34        2122    16779892+  82  Linux swap / Solaris
+/dev/sda3            2123        2383     2096482+  83  Linux
+/dev/sda4            2384       17769   123588045    5  Extended
+/dev/sda5            2384       17769   123588013+  83  Linux
+
+Disk /dev/sdb: 42.9 GB, 42949672960 bytes
+255 heads, 63 sectors/track, 5221 cylinders
+Units = cylinders of 16065 * 512 = 8225280 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk identifier: 0x697f71d6
+
+   Device Boot      Start         End      Blocks   Id  System
+/dev/sdb1               1         915     7349706   83  Linux
+/dev/sdb2             916        1960     8393962+  83  Linux
+/dev/sdb3            1961        5221    26193982+  83  Linux
+
+Disk /dev/sdc: 10.7 GB, 10737418240 bytes
+64 heads, 32 sectors/track, 10240 cylinders
+Units = cylinders of 2048 * 512 = 1048576 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk identifier: 0x00000000
+
+
+Disk /dev/sdd: 214.7 GB, 214748364800 bytes
+255 heads, 63 sectors/track, 26108 cylinders
+Units = cylinders of 16065 * 512 = 8225280 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk identifier: 0x00000000
+
+
+Disk /dev/sde: 85.9 GB, 85899345920 bytes
+255 heads, 63 sectors/track, 10443 cylinders
+Units = cylinders of 16065 * 512 = 8225280 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk identifier: 0x00000000
+
+
+Disk /dev/mapper/fc_nimble_datadg2: 42.9 GB, 42949672960 bytes
+255 heads, 63 sectors/track, 5221 cylinders
+Units = cylinders of 16065 * 512 = 8225280 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk identifier: 0x697f71d6
+
+                         Device Boot      Start         End      Blocks   Id  System
+/dev/mapper/fc_nimble_datadg2p1               1         915     7349706   83  Linux
+/dev/mapper/fc_nimble_datadg2p2             916        1960     8393962+  83  Linux
+/dev/mapper/fc_nimble_datadg2p3            1961        5221    26193982+  83  Linux
+
+Disk /dev/mapper/fc_nimble_redodg1: 10.7 GB, 10737418240 bytes
+255 heads, 63 sectors/track, 1305 cylinders
+Units = cylinders of 16065 * 512 = 8225280 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk identifier: 0x00000000
+
+
+Disk /dev/mapper/fc_nimble_datadg1: 214.7 GB, 214748364800 bytes
+255 heads, 63 sectors/track, 26108 cylinders
+Units = cylinders of 16065 * 512 = 8225280 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk identifier: 0x00000000
+
+
+Disk /dev/mapper/fc_nimble_fradg1: 85.9 GB, 85899345920 bytes
+255 heads, 63 sectors/track, 10443 cylinders
+Units = cylinders of 16065 * 512 = 8225280 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk identifier: 0x00000000
+
+
+Disk /dev/sdj: 42.9 GB, 42949672960 bytes
+255 heads, 63 sectors/track, 5221 cylinders
+Units = cylinders of 16065 * 512 = 8225280 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk identifier: 0x697f71d6
+
+   Device Boot      Start         End      Blocks   Id  System
+/dev/sdj1               1         915     7349706   83  Linux
+/dev/sdj2             916        1960     8393962+  83  Linux
+/dev/sdj3            1961        5221    26193982+  83  Linux
+
+Disk /dev/sdk: 10.7 GB, 10737418240 bytes
+64 heads, 32 sectors/track, 10240 cylinders
+Units = cylinders of 2048 * 512 = 1048576 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk identifier: 0x00000000
+
+
+Disk /dev/sdl: 214.7 GB, 214748364800 bytes
+255 heads, 63 sectors/track, 26108 cylinders
+Units = cylinders of 16065 * 512 = 8225280 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk identifier: 0x00000000
+
+
+Disk /dev/sdm: 85.9 GB, 85899345920 bytes
+255 heads, 63 sectors/track, 10443 cylinders
+Units = cylinders of 16065 * 512 = 8225280 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk identifier: 0x00000000
+
+
+Disk /dev/asm/hascripts-126: 7516 MB, 7516192768 bytes
+255 heads, 63 sectors/track, 913 cylinders
+Units = cylinders of 16065 * 512 = 8225280 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk identifier: 0x01010101
+
+
+Disk /dev/asm/dbhome-413: 25.8 GB, 25769803776 bytes
+255 heads, 63 sectors/track, 3133 cylinders
+Units = cylinders of 16065 * 512 = 8225280 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk identifier: 0x01010101
